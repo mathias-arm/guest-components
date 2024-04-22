@@ -327,7 +327,6 @@ dependencies = [
  "hyper-tls",
  "kbs-types",
  "log",
- "nix 0.28.0",
  "occlum_dcap",
  "rstest",
  "scroll",
